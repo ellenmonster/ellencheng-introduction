@@ -32,5 +32,5 @@ Right now I'm stuck at home with ringworm that I caught from a little kitten I a
 ![BatBoy the Ringworm Kitty](BatBoy.jpg)
 
 ## Cool Website
-I love learning about large, publicly available environmental databases on the web, because I'm interested in using web services to pull these data into R for analyses. I recently learned about this [EPA website] (https://echo.epa.gov/) for finding out about facilities that discharge pollutants into our air and waterways. It's great because you can look up information for your own area and keep track of when your neighborhood facilities get caught violating environmental regulations. Taxpayer money at work!
+I love learning about large, publicly available environmental databases on the web, because I'm interested in using web services to pull these data into R for analyses. I recently learned about this [EPA website](https://echo.epa.gov/) for finding out about facilities that discharge pollutants into our air and waterways. It's great because you can look up information for your own area and keep track of when your neighborhood facilities get caught violating environmental regulations. Taxpayer money at work!
 
